@@ -2,7 +2,7 @@
 
 Program Name: ft_printf
 
-Description: ft_printf is a custom implementation of the printf() function from the C standard library. It provides similar functionality to printf() while offering some customization options.
+Description: ft_printf is a custom implementation of the printf() function from the C standard library. It is a project aimed at understanding variadic functions in C and developing a robust, well-structured, and extensible version of printf.
 
 Files Included
 
